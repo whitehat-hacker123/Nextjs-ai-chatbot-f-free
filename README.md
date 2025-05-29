@@ -90,3 +90,11 @@ Bypassing license restrictions
 
 If you're reading this with bad intentions:
 you're already being watched.
+
+##📬 WANT TO USE THIS LEGALLY?
+
+Contact:
+Email: dadddy5959@gmail.com
+GitHub: whitehat-hacker123
+
+Only licensed, verified users may access, test, or build upon this project.
