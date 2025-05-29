@@ -61,6 +61,7 @@ pnpm dev
 
 Your app template should now be running on [localhost:3000](http://localhost:3000).
 
-🚨 READ THIS BEFORE USING
+##🚨 READ THIS BEFORE USING
+
 This repository is not open-source.
 It contains proprietary software, private APIs, and internal logic developed and owned by whitehat-hacker123.
