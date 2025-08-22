@@ -56,37 +56,6 @@ pnpm dev
 
 Your app template should now be running on [localhost:3000](http://localhost:3000).
 
-## READ THIS BEFORE USING
-
-This repository is not open-source.
-It contains proprietary software, private APIs, and internal logic developed and owned by whitehat-hacker123.
-⚠️ LICENSE & USAGE WARNING
-All contents — including source code, backend logic, and API endpoints — are governed by a custom legal license.
-You are not allowed to fork, clone, copy, modify, re-use, or reference any part of this project without explicit written permission.
-
-This repository is protected by:
-
-✅ Copyright law (Domestic & International)
-
-✅ Trade secret regulations
-
-✅ Digital forensics and activity logging
-
-Any unauthorized interaction with this repo will be considered a violation and may result in legal action.
-
-❗ EXAMPLES OF PROHIBITED USES
-Using the API without permission
-
-Copying code for use in another product
-
-Reposting or reselling any component
-
-Bypassing license restrictions
-
-If you're reading this with bad intentions:
-you're already being watched.
-
-## WANT TO USE THIS LEGALLY?
 
 📬Contact:
 Email: didddy5959@gmail.com
