@@ -58,7 +58,7 @@ Your app template should now be running on [localhost:3000](http://localhost:300
 
 
 📬Contact:
-Email: didddy5959@gmail.com
+Email: dadddy.5959@gmail.com
 GitHub: whitehat-hacker123
 
 Only licensed, verified users may access, test, or build upon this project.
